@@ -22,6 +22,7 @@ Consulte aqui a última atualização: [Relatório do {{ page.website }}](report
 <details>
   <summary>Histórico de atualizações</summary>
   <ul aria-label="lista de relatórios já efetuados">
+    <li><a href="24092026_report.html">(24/09/2026). Relatório do {{ page.website }}</a></li>
     <li><a href="06082026_report.html">(06/08/2026). Relatório do {{ page.website }}</a></li>
     <li><a href="/report_012/25022026_report.html">(25/02/2026). Relatório do {{ page.website }}</a></li>
   </ul>
